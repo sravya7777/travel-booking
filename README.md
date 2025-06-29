@@ -46,7 +46,7 @@ This is a full-stack web application that allows users to browse and book travel
 ## 💡 Author
 
 **Sravya Reddy**  
-Frontend Developer | Data Analyst | UI/UX Designer  
+Frontend Developer  
 📧 [salvendrisravyareddy@gmail.com](mailto:salvendrisravyareddy@gmail.com)  
 🔗 [GitHub Profile](https://github.com/sravya7777)
 
